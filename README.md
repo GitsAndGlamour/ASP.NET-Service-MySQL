@@ -1,4 +1,6 @@
- I started this project to tackle a few things...
+# ASP.NET (C#) API with MySQL
+
+I started this project to tackle a few things...
 
 1. How to build an ASP.NET API / REST Service with C#
 2. How to connect an ASP.NET API to my local MySQL database
