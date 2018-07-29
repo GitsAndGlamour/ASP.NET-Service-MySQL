@@ -12,5 +12,4 @@ I started this project to tackle a few things...
 ##### Future Solutions
 - Column names should not have to strictly match property names of the table object
 - There needs to be an  enumeration referencing table names (ex.: ```api/values/1``` = Get all values referencing table 1)
-- Where clause (ex.: POST REQUEST: ```api/values/1``` BODY: ```{ sql: string }```
 
